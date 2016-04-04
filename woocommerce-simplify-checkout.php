@@ -2,14 +2,15 @@
 
 /*
 	Plugin Name:       Woocommerce Simplify checkout
-	Plugin URI:        https://github.com/tanzoor/woocommerce-simplify-checkout
+	Plugin URI:        https://github.com/systemo-biz/woocommerce-simplify-checkout/
 	Description:       Уменьшает кол-во полей чекаута и переносит в корзину
-	Version:           1.0.0
 	Author:            Александр Павлюков
 	License:           GNU General Public License v2
 	License URI:       http://www.gnu.org/licenses/gpl-2.0.html
-	GitHub Plugin URI: https://github.com/tanzoor/woocommerce-simplify-checkout
+	GitHub Plugin URI: https://github.com/systemo-biz/woocommerce-simplify-checkout/
 	GitHub Branch:     master
+
+	Version:           20160404
 */
 
 // Отключаем выбор типа оплаты
